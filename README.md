@@ -1,4 +1,4 @@
-![KOTAPROLU_HEMANTH](https://user-images.githubusercontent.com/92506047/192155843-1fa47dc6-0a6c-421c-ab4f-24693830e3b3.png)
+<!-- ![KOTAPROLU_HEMANTH](https://user-images.githubusercontent.com/92506047/192155843-1fa47dc6-0a6c-421c-ab4f-24693830e3b3.png) --->
 
 
 <h1 align='center'> Hello! 👋, I'm Kotaprolu Hemanth </h1>
