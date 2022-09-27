@@ -7,7 +7,7 @@
 
 I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Data Analyst** at Tiger Analytics. I have completed my Graduation from **Indian Institute of Technology, Tirupati (*IITT*)**.  My interest lies in learning what’s new in technology and creating real world applications.
 
-## Connect with me <img src="https://github.com/sujana-kamasany/Profile-Assets/blob/main/assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://user-images.githubusercontent.com/92506047/192497801-4790be4c-9f96-4b4b-8eae-cdfbcee4efa1.gif" alt="Handshake" height="32px">
 
 <a href="https://www.linkedin.com/in/kotaprolu-hemanth-582b511a6/" target="blank" >
   <img align="left" style="margin:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
