@@ -18,5 +18,6 @@ I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Da
   <a href="https://dev.to/hemanthkotaprolu">
     <img align="left" style="margin:5px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
+<br><br>
 
 ![Hemanth' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=algolia)
