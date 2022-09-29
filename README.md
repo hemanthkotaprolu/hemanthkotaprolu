@@ -21,4 +21,3 @@ I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Da
 <br><br>
 
 ![Hemanth' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=algolia&count_private=true)
-)
