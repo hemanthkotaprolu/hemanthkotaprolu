@@ -2,7 +2,7 @@
 <h5 align="center"> Self-taught Full Stack Web Developer and a Open Source Enthusiast. </h5>
 <hr>
 
-I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Data Analyst** at Tiger Analytics. I have completed my Graduation from **Indian Institute of Technology, Tirupati (*IITT*)**.  My interest lies in learning what’s new in technology and creating real world applications.
+I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Data Analyst** at Tiger Analytics. I have completed my Graduation from **Indian Institute of Technology, Tirupati (*IITT*)**.  My interest lies in learning what’s new in technology and creating real world applications. I am a **Open source enthusiast** and **full-stack web developer**. I am also intrested in **machine learning** and data science.
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/92506047/192497801-4790be4c-9f96-4b4b-8eae-cdfbcee4efa1.gif" alt="Handshake" height="32px">
 
