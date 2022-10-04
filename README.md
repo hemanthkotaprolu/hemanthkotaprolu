@@ -1,5 +1,5 @@
 <h1 align='center'> Hello! 👋, I'm Kotaprolu Hemanth </h1>
-<h5 align="center"> Self-taught Full Stack Web Developer and a Open Source Enthusiast. </h5>
+<h5 align="center"> Self-taught Full Stack Web Developer and Open Source Enthusiast </h5>
 <hr>
 
 I am **kotaprolu hemanth** from Andhra pradesh, India. Currently working as **Data Analyst** at Tiger Analytics. I have completed my Graduation from **Indian Institute of Technology, Tirupati (*IITT*)**.  My interest lies in learning what’s new in technology and creating real world applications. I am a **Open source enthusiast** and **full-stack web developer**. I am also intrested in **machine learning** and data science.
