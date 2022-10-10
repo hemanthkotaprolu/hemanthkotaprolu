@@ -6,7 +6,7 @@ I am **Kotaprolu Hemanth** from Andhra pradesh, India. Currently working as **Da
 
   ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -26,10 +26,10 @@ I am **Kotaprolu Hemanth** from Andhra pradesh, India. Currently working as **Da
 
 <br/>
 
-<p>
-    <a href="https://github.com/hemanthkotaprolu"><img Get streak stats for your profile at git.io/streak-stats" alt="Kotaprolu Hemanth's streak" src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight"/>
+<p align="center" float="left">
+    <a href="https://github.com/hemanthkotaprolu"><img Get streak stats for your profile at git.io/streak-stats" alt="Kotaprolu Hemanth s streak" src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight" width="400"/>
     </a>
-    <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth's GitHub Stats" /> </a>
+    <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth s GitHub Stats" width="400"/> </a>
 </p>
 
 <hr>
