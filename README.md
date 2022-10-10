@@ -25,7 +25,8 @@ I am **Kotaprolu Hemanth** from Andhra pradesh, India. Currently working as **Da
 ## 📊 My Github Stats:
 
 <br/>
-<p align="center">
+
+<p>
     <a href="https://github.com/hemanthkotaprolu"><img Get streak stats for your profile at git.io/streak-stats" alt="Kotaprolu Hemanth's streak" src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight"/>
     </a>
     <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth's GitHub Stats" /> </a>
