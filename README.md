@@ -29,12 +29,12 @@ I am **Kotaprolu Hemanth** from Andhra pradesh, India. Currently working as **Da
 <p align="center" float="left">
     <a href="https://github.com/hemanthkotaprolu"><img Get streak stats for your profile at git.io/streak-stats" alt="Kotaprolu Hemanth s streak" src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight" width="400"/>
     </a>
-    <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth s GitHub Stats" width="400"/> </a>
+    <a href="https://github.com/hemanthkotaprolu"> <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth s GitHub Stats" width="400"/> </a>
 </p>
 
 <hr>
 
-[![Kotaprolu Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kotaprolu Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/hemanthkotaprolu)
 
 <br/>
 
