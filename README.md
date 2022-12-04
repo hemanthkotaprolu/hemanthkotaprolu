@@ -33,7 +33,8 @@ I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analy
 
 <hr>
 
-[![Kotaprolu Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/hemanthkotaprolu)
+
+<!--[![Kotaprolu Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/hemanthkotaprolu)-->
 
 <br/>
 
