@@ -36,6 +36,10 @@ I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analy
 
 <!--[![Kotaprolu Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/hemanthkotaprolu)-->
 
+[![Kotaprolu Hemanth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hemanthkotaprolu&theme=tokyo-night)](https://github.com/hemanthkotaprolu)
+
+<!--https://github-readme-activity-graph.cyclic.app/graph?username=hemanthkotaprolu&theme=tokyo-night-->
+
 <br/>
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/92506047/192497801-4790be4c-9f96-4b4b-8eae-cdfbcee4efa1.gif" alt="Handshake" width="50">
