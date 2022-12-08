@@ -2,7 +2,7 @@
 <h5 align="center">Full Stack Web Developer and Open Source Enthusiast </h5>
 <hr>
 
-I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analytics. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I am an **Open source enthusiast** and a **full-stack web developer**. My interest lies in learning new technologies and creating real world applications. I am also intrested in **Machine Learning** and Data Science.
+I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analytics. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I am an **Open source enthusiast**, a **full-stack web developer** and **Data Analyst**. My interest lies in learning new technologies and creating real world applications.
 
   ## 🚀 Languages and Tools:
 
