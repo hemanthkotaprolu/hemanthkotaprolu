@@ -1,8 +1,8 @@
-<h1 align='center'> Hello! 👋, I'm Kotaprolu Hemanth </h1>
-<h5 align="center">Full Stack Web Developer and Open Source Enthusiast </h5>
+<h1 align='center'> Hello! 👋, Kotaprolu Hemanth here</h1>
+<h5 align="center">Data Analyst and Full Stack Web Developer</h5>
 <hr>
 
-I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analytics. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I am an **Open source enthusiast**, a **full-stack web developer** and **Data Analyst**. My interest lies in learning new technologies and creating real world applications.
+I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analytics. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I am an **Data Analyst**, a **full-stack web developer** and **Open source enthusiast**. My interest lies in learning what's new in technology and creating real world applications. 
 
   ## 🚀 Languages and Tools:
 
