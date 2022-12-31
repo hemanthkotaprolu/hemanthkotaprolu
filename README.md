@@ -1,4 +1,6 @@
-<h1 align='center'> Hello! 👋, Kotaprolu Hemanth here</h1>
+<h1 align='center'> Hola! 👋</h1>
+<h4 align="center">KOTAROLU HEMANTH here</h4>
+<hr>
 <h5 align="center">Data Analyst and Full Stack Web Developer</h5>
 <hr>
 
