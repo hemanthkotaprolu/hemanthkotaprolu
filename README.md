@@ -1,7 +1,6 @@
-<h1 align='center'> Hola! 👋</h1>
-<h4 align="center">KOTAROLU HEMANTH here</h4>
-<hr>
-<h5 align="center">Data Analyst and Full Stack Web Developer</h5>
+<!-- <h1 align='center'> Hola! 👋</h1> -->
+<h2 align="center">KOTAROLU HEMANTH</h2>
+<h4 align="center">Data Analyst and Full Stack Web Developer</h4>
 <hr>
 
 I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analytics. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I am an **Data Analyst**, a **full-stack web developer** and **Open source enthusiast**. My interest lies in learning what's new in technology and creating real world applications. 
