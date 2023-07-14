@@ -28,10 +28,10 @@ I am **Kotaprolu Hemanth**, currently working as **Data Analyst** at Tiger Analy
 
 <p align="center" float="left">
     <a href="https://github.com/hemanthkotaprolu">
-      <img src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight" alt="Kotaprolu Hemanth's streak"/>
+      <img src="https://streak-stats.demolab.com?user=hemanthkotaprolu&theme=tokyonight" alt="Kotaprolu Hemanth's streak" width="400"/>
     </a>
     <a href="https://github.com/hemanthkotaprolu">
-      <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth s GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=hemanthkotaprolu&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth s GitHub Stats" width="380" />
     </a>
 </p>
 
