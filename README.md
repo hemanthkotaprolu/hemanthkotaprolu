@@ -1,6 +1,6 @@
 <!-- <h1 align='center'> Hola! 👋</h1> -->
 <h2 align="center">KOTAROLU HEMANTH</h2>
-<h4 align="center">Data Analyst and Full Stack Web Developer</h4>
+<h4 align="center">MS by Research, IIT Bombay</h4>
 <hr>
 
 I am **Kotaprolu Hemanth**, currently a first year master's student at **Indian Institute of Technology Bombay**. I have completed my graduation from **Indian Institute of Technology, Tirupati (IITT)**. I have worked at **Tiger Analytics** as a Data Analyst for 1 year. My interest lies in Open-Source development, Machine Learning and Deep Learning.
